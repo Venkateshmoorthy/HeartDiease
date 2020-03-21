@@ -1,0 +1,22 @@
+
+
+#Understand the problem 
+
+
+Collected data is from three different hospital systems  : Columbia Asia , Apollo, Fortis 
+
+This database contains 76 Attributes but all published experiments refer to subset of 14 of them 
+
+Target refers to presence of heart disease in patient
+
+An int values from 0 (No presence)to 4 
+
+Names of the patients were removed from the database, replaced with dummy values
+  
+
+
+
+
+Feature Names as follows ['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal', 'heartdisease']
+
+
